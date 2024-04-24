@@ -1,6 +1,6 @@
 {
   "name": "simple-calculator-4ux",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A simple calculator  with Node.js,Typescript and Inquirer.Try it and rate it.",
   "main": "index.js",
   "type": "module",
